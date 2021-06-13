@@ -1,16 +1,27 @@
-### Hi there 👋
+## 👋 Hi there, I'm [Irina][website]
 
-<!--
-**aniri/aniri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and open-source enthusiast based in Bucharest, Romania
 
-Here are some ideas to get you started:
+[<img align="left" style='margin-right:5px' alt="aniri.ro" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="anirib | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
+
+## 🚀 Most notable open-source work
+
+[![Code4Romania -> Vote Monitor App](https://github-readme-stats.vercel.app/api/pin/?username=aniri&repo=mon-vot-android-kotlin)](https://github.com/aniri/mon-vot-android-kotlin)
+
+[![Code4Romania -> De urgenta App](https://github-readme-stats.vercel.app/api/pin/?username=aniri&repo=de-urgenta-android)](https://github.com/aniri/de-urgenta-android)
+
+---
+
+## 🌟 Overall stats
+
+<img align="left" alt="Irina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aniri&show_icons=true&hide_border=true&theme=slateorange" />
+
+[website]: https://aniri.ro/
+[twitter]: https://twitter.com/anirib
+
+
